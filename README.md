@@ -5,7 +5,7 @@
 # Hi there, I'm Khamed Mohammed Taha 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-KhamedMohammedTaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
-[![Twitter Badge](https://img.shields.io/badge/-@KhamedMedTaha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/KhamedMedTaha)](https://x.com/KhamedMedTaha)
+[![Twitter Badge](https://img.shields.io/badge/-@khamedtaha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/KhamedMedTaha)](https://x.com/khamedtaha)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khamedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed taha" /> </p>
 
@@ -37,6 +37,7 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoBD](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=mongobd)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
