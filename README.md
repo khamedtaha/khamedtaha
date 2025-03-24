@@ -16,9 +16,8 @@
 I'm a **Computer Science graduate** with a passion for building robust backend systems and exploring the frontiers of AI/ML. Currently specializing in Python development, I have professional experience designing RESTful APIs with **Django**, **FastAPI**, and **Django REST Framework**. My work focuses on creating scalable solutions with clean architecture, while continuously expanding my expertise in data engineering and machine learning.
 
 **Key Strengths:**  
-✔️ Backend Development & API Design  
-✔️ Database Optimization & System Architecture  
-✔️ Python Automation & Scripting  
+✔️ Backend Development & API 
+✔️ Python Development & Scripting  
 ✔️ Collaborative Problem Solving  
 
 ---
@@ -43,28 +42,13 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-### **DevOps & Tools**
+### ** Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
----
 
-## 🔥 Recent Projects
-
-### **AI-Powered Inventory Management System**
-- Developed REST APIs with **Django DRF** handling 500+ daily transactions
-- Integrated **Computer Vision** modules for automated stock tracking
-- Reduced processing time by 40% through query optimization
-- *Tech Stack: Python, OpenCV, PostgreSQL, Redis*
-
-### **Real-time Analytics Dashboard**
-- Built with **FastAPI** and **WebSocket** for live data streaming
-- Implemented JWT authentication and rate limiting
-- Achieved 99.8% API uptime with monitoring via **Prometheus+Grafana**
-- *Tech Stack: FastAPI, React, MongoDB, Docker*
 
 ---
 
@@ -91,6 +75,12 @@ I'm always open to discussing:
 - Open-source collaborations
 - Career opportunities
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/khamedtaha/) or [Email](mailto:khamedkh297@gmail.com) - let's create something remarkable! 🚀
 
-![Footer](https://github.com/khamedtaha/khamedtaha/blob/main/assets/footer.png?raw=true)
+---
+
+
+## 📫 Contact Me
+
+- Email: [khamedkh297@gmail.com](mailto:khamedkh297@gmail.com)
+- LinkedIn : [Mohammed Taha](https://www.linkedin.com/in/khamedtaha/)
+- Twitter  : [Mohammed taha](https://x.com/khamedtaha)
