@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-KhamedMohammedTaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
 [![Twitter Badge](https://img.shields.io/badge/-@KhamedMedTaha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/KhamedMedTaha)](https://x.com/KhamedMedTaha)
 
+<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
 I hold a Bachelor's Degree in Computer Science with a strong interest in Artificial Intelligence. Specializing in Python development and backend development , I have gained experience as a Junior Backend Developer using Django and DRF and FastAPI . My technical proficiency extends to languages such as JavaScript , Throughout my career, I have worked on diverse projects that have honed my abilities in this field. I am continuously striving to stay abreast of the latest technological advancements and look forward to furthering my expertise in Data Science.
