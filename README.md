@@ -65,5 +65,5 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ## 📫 Contact Me
 
 - Email: [khamedkh297@gmail.com](mailto:khamedkh297@gmail.com)
-- LinkedIn: [Khamed Mohammed Taha](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
-- Twitter: [@KhamedMedTaha](https://x.com/KhamedMedTaha)
+- LinkedIn : [Mohammed Taha](https://www.linkedin.com/in/khamedtaha/)
+- Twitter  : [Mohammed taha](https://x.com/khamedtaha)
