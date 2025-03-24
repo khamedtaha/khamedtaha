@@ -37,7 +37,7 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MongoBD](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=mongobd)
+![MongoBD](https://img.shields.io/badge/-MongoBD-333333?style=flat&logo=mongobd)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
