@@ -16,8 +16,11 @@
 I'm a **Computer Science graduate** with a passion for building robust backend systems and exploring the frontiers of AI/ML. Currently specializing in Python development, I have professional experience designing RESTful APIs with **Django**, **FastAPI**, and **Django REST Framework**. My work focuses on creating scalable solutions with clean architecture, while continuously expanding my expertise in data engineering and machine learning.
 
 **Key Strengths:**  
+
 ✔️ Backend Development & API 
+
 ✔️ Python Development & Scripting  
+
 ✔️ Collaborative Problem Solving  
 
 ---
