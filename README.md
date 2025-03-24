@@ -1,6 +1,6 @@
 ![Alt text](github.png)
 
-# Hi there, I'm Khamed Mohammed Taha 👋
+# Hi there, I'm Mohammed Taha 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamedtaha/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khamedtaha)
