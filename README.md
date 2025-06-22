@@ -59,18 +59,21 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
 
 <p align="center">
   <a href="https://github.com/khamedtaha">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khamedtaha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Khamed's GitHub Stats"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khamedtaha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Mohammed's Annual GitHub Stats" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/khamedtaha">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamedtaha&layout=compact&theme=algolia&langs_count=6" alt="Top Languages"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamedtaha&layout=compact&theme=algolia&langs_count=6&custom_title=Top Languages (Annual)" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/khamedtaha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khamedtaha&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khamedtaha&theme=tokyonight&mode=annual" alt="Annual GitHub Streak"/>
   </a>
 </p>
+
+### Annual Contributions (2025)
+![Contribution Graph](https://ghchart.rshah.org/khamedtaha)
 
 
 
