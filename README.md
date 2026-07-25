@@ -55,10 +55,9 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
     <td align="center" width="120"><b>AI / LLMs</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="28"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="28"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
-      <img src="https://img.shields.io/badge/Chroma-FC6363?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" height="28"/>
+      
     </td>
   </tr>
   <tr>
@@ -69,7 +68,7 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
   </tr>
 </table>
 
-<br clear="all"/>
+
 ---
 
 ## 📈 GitHub Analytics
