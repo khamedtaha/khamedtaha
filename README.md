@@ -24,36 +24,52 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
 ✔️ Collaborative Problem Solving  
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Arsenal
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,&theme=dark" alt="backend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI / LLMs</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="28"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="28"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+      <img src="https://img.shields.io/badge/Chroma-FC6363?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,github,linux,git&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
 
-### **Core Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### **Data & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
-
-
+<br clear="all"/>
 ---
 
 ## 📈 GitHub Analytics
