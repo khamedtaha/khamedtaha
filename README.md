@@ -57,8 +57,7 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="28"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
-      
-    </td>
+     </td>  
   </tr>
   <tr>
     <td align="center" width="120"><b>DevOps</b></td>
