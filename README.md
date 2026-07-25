@@ -36,7 +36,7 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="frontend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" alt="frontend"/></a>
     </td>
   </tr>
   <tr>
