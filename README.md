@@ -67,6 +67,7 @@ I'm a **Computer Science graduate** with a passion for building robust backend s
   </tr>
 </table>
 
+<br clear="all"/>
 
 ---
 
